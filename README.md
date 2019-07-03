@@ -26,7 +26,7 @@ To apply new theme, enter the theme name on the current_theme line in /etc/slim.
 
 ```sh
 #current_theme       default
-current_theme       milk
+current_theme       typogen
 ```
 **Help** : For extra help, follow this [article](https://wiki.archlinux.org/index.php/SLiM).
 
